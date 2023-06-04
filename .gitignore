@@ -1,2 +1,4 @@
 db.sqlite.3
 my_project_env
+*.pyc
+__pycache__
